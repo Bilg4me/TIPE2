@@ -1,0 +1,55 @@
+Apple
+Apricot
+Avocado
+Banana
+Blackberry
+Blueberry
+Cherry
+Cherimoya
+Coconut
+Cranberry
+Cucumber
+Damson
+Date
+Feijoa
+Fig
+Goji berry
+Grape
+Raisin
+Grapefruit
+Guava
+Kiwifruit
+Kumquat
+Lemon
+Lime
+Lychee
+Mango
+Melon
+Cantaloupe
+Honeydew
+Watermelon
+Mulberry
+Nectarine
+Olive
+Orange
+Blood orange
+Clementine
+Mandarine
+Tangerine
+Papaya
+Passionfruit
+Peach
+Pear
+Plantain
+Plum
+Prune
+Pineapple
+Pomegranate
+Pomelo
+Raspberry
+Salal berry
+Soursop
+Star fruit
+Strawberry
+Tamarind
+Yuzu
