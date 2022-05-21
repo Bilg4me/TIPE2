@@ -21,7 +21,6 @@ def nutrients(foodId):
 
     return r
 
-
 def ficheTechnique(aliment):
     r0 = parser(aliment)
     if r0.status_code == 200:
